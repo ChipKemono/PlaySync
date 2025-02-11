@@ -1,2 +1,1 @@
-# PlaySync
-An open-source bidirectional Spotify to Apple Music playlist syncer.
+![PlaySync - Open Source playlist syncing for the masses](./PlaySyncBanner.png "PlaySync - Open Source playlist syncing for the masses")
